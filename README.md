@@ -10,5 +10,5 @@
 
                                   And Build a Counter App Project
 <div style = "margin-top: 10px;">
-<img src = "https://kalitsrcounter.ccbp.tech" style = "display: flex; justify-content: center; align-items: center; width: 90%;" />
+<a href = "https://kalitsrcounter.ccbp.tech" style = "display: flex; justify-content: center; align-items: center; width: 90%;" />
 </div>
